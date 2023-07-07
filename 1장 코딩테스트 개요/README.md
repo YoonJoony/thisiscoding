@@ -1,4 +1,4 @@
-![image](https://github.com/YoonJoony/thisiscoding/assets/110625854/6b3bf12b-bd8e-4e17-9126-ee4a691bb776)**..대충 코딩테스트 하는 사람 는다는 내용**
+**..대충 코딩테스트 하는 사람 는다는 내용**
 
 1장, 2장은 그냥 깃허브에서 올리고 3장부터 해설로 velog에 작성해야겠다. <br>
 <br>
