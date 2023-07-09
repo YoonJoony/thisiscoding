@@ -26,7 +26,7 @@ https://github.com/ndb796
 
 | 주요알고리즘     | 진행|  소스코드   |  이론정리    |  블로그정리  |
 | ---- | ---- | ---- | ---- | ---- |
-|   3.그리디   | ✔ |  [코드]   |    [이론]   |    [설명 & 해설]    |
+|   3.그리디   | ✔ |  [코드](https://github.com/YoonJoony/thisiscoding/tree/main/2%EC%9E%A5%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/CHAP%2003.%20%EA%B7%B8%EB%A6%AC%EB%94%94)   |    [이론](https://github.com/YoonJoony/thisiscoding/blob/main/2%EC%9E%A5%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/CHAP%2003.%20%EA%B7%B8%EB%A6%AC%EB%94%94/README.md)   |    [설명 & 해설](https://velog.io/@dbswns1101/CHAP03.-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)    |
 |   4.구현   |  |  [코드]   |    [이론]   |    [설명 & 해설]    |
 |   5. DFS/BFS  |  |  [코드]   |    [이론]   |    [설명 & 해설]    |
 |   6. 정렬   |  |  [코드]   |    [이론]   |    [설명 & 해설]    |
