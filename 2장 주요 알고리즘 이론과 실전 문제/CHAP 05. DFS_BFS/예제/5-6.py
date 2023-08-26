@@ -27,3 +27,4 @@ graph[2].append((1, 7))
 
 print("인접리스트 : ", graph)
 print(type(graph)) # 일반 리스트와 타입은 같다.
+
