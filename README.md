@@ -6,7 +6,7 @@
 정처기 시험도 2주 뒤지만 벼랑끝에 몰릴수록 더욱 빡세게 하는 벼락치기 본성을 <br><br>
 더욱 불태울 기회이기도 해서 스터디 사람들과 함께 공부해볼려고 한다.
 <br>
-![이코테 스터디 레포](https://github.com/LCT-study/lct-study)
+이코테 스터디 레포 (https://github.com/LCT-study/lct-study)
 </br>
 </br>
 </br>
